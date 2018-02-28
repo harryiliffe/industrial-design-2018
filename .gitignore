@@ -1,0 +1,4 @@
+.gitmodules
+.DS_Store
+docs/_site
+code/main/data
