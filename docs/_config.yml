@@ -1,0 +1,18 @@
+title: Industrial Studio 1
+description: A document of my research and process for Industrial Design Studio 1
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+include: ["_pages"]
+permalink: /:title/
+
+sections: [
+    ['research', 'Research'],
+    # ['concept', 'Ideation'],
+    # ['presentations', 'Presentations'],
+    # ['development', 'Development'],
+    # ['assembly', 'Assembly']
+]
+
+
+imageurl: "https://harryiliffe.github.io/industrial-studio-2018/assets/img/"
