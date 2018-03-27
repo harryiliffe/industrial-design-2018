@@ -31,8 +31,8 @@ This will give me hands on indication about how it will operate and if it poses 
 
 #### Fusion 360 modelling
 
-![Fusion 360 Screenshot)]({{imageurl}}/cad/cad-01.png)*Base wall*
-![Fusion 360 Screenshot)]({{imageurl}}/cad/cad-02.3.png)*Person with plug*
-![Fusion 360 Screenshot)]({{imageurl}}/cad/cad-02.2.png)*Person on base*
-![Fusion 360 Screenshot)]({{imageurl}}/cad/cad-03.png)*Base with plane added*
-![Fusion 360 Screenshot)]({{imageurl}}/cad/cad-04.1.png)*Closeup of plane*
+![Fusion 360 Screenshot)]({{site.imageurl}}/cad/cad-01.png)*Base wall*
+![Fusion 360 Screenshot)]({{site.imageurl}}/cad/cad-02.3.png)*Person with plug*
+![Fusion 360 Screenshot)]({{site.imageurl}}/cad/cad-02.2.png)*Person on base*
+![Fusion 360 Screenshot)]({{site.imageurl}}/cad/cad-03.png)*Base with plane added*
+![Fusion 360 Screenshot)]({{site.imageurl}}/cad/cad-04.1.png)*Closeup of plane*

@@ -9,10 +9,10 @@ A few of the other products areas we identified (excluding furniture) were light
 ### Lighting
 Like everything else in wellington airport, there was a wide range of lighting.
 
-![lighting01]({{imageurl}}/LIGHTING-01)
-![lighting02]({{imageurl}}/LIGHTING-03)
-![lighting03]({{imageurl}}/LIGHTING-05)
-![lighting04]({{imageurl}}/LIGHTING-06)
+![lighting01]({{site.imageurl}}/LIGHTING-01)
+![lighting02]({{site.imageurl}}/LIGHTING-03)
+![lighting03]({{site.imageurl}}/LIGHTING-05)
+![lighting04]({{site.imageurl}}/LIGHTING-06)
 
 #### Tape barriers / Stanchion
 Used excessively at the wellington airport were tape barriers. In every area of the airport these barriers were used as an quick, easy to set up solution for direction people.
@@ -26,6 +26,6 @@ Wellington Airport uses a mixture of different signage, the main type being over
 #### Advertising
 In the wellington airport it seemed that almost every space had some form of advertisement.
 
-![advertising01]({{imageurl}}/ADVERTISING-01)
-![advertising02]({{imageurl}}/ADVERTISING-03)
-![advertising03]({{imageurl}}/ADVERTISING-05)
+![advertising01]({{site.imageurl}}/ADVERTISING-01)
+![advertising02]({{site.imageurl}}/ADVERTISING-03)
+![advertising03]({{site.imageurl}}/ADVERTISING-05)
