@@ -6,7 +6,8 @@ title: "Concepts"
 
 ### First Concepts
 
-*/ Images /*
+*Images*
+
 Furniture Concepts
 
 I found these quick furniture concepts really uninspiring and not what I would normally design ever.
@@ -26,7 +27,7 @@ This idea is based on the same principles as concept 1
 I decided to make a quick proof of concept for concept 1.
 This will give me hands on indication about how it will operate and if it poses enough opportunity for development.
 
-*/ Extra Sketches /*
+*Extra Sketches*
 
 #### Fusion 360 modelling
 
