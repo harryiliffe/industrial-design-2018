@@ -222,7 +222,14 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 footer { width: 270px; float: left; bottom: 50px;
 -webkit-font-smoothing: subpixel-antialiased; }
 
+img {
+  display: block;
+}
 
+img + em {
+  display: block;
+  margin-bottom: 15px;
+}
 
 ul.nav {
   padding: 0;
