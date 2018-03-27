@@ -5,7 +5,7 @@ title: "Materials Research"
 ---
 
 ### Material One: 100% Wool Felt
-Felt is a textile material that is produced by matting, condensing and pressing fibers together (wikipedia). It is often soft and can be made in a range of different strengths and thickness.
+Felt is a textile material that is produced by matting, condensing and pressing fibres together (wikipedia). It is often soft and can be made in a range of different strengths and thickness.
 It is highly recyclable as it will biodegrade but still durable.
 
 ### Material Two: PLA
