@@ -10,7 +10,7 @@ sections: [
     ['research', 'Research'],
     # ['concept', 'Ideation'],
     # ['presentations', 'Presentations'],
-    # ['development', 'Development'],
+    ['development', 'Development'],
     # ['assembly', 'Assembly']
 ]
 
