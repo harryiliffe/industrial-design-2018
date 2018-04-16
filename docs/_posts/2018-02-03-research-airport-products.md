@@ -4,7 +4,7 @@ categories: research
 title: "Airport Products"
 ---
 
-A few of the other products areas we identified (excluding furniture) were lighting, crowd control and
+A few of the products areas we identified ([excluding furniture](https://harryiliffe.github.io/industrial-design-2018/research-airport-furniture/)) were lighting, crowd control, and signage and advertising.
 
 ### Lighting
 Like everything else in wellington airport, there was a wide range of lighting.
