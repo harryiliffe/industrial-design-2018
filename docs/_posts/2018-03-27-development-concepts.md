@@ -2,6 +2,7 @@
 layout: default
 categories: development
 title: "Concepts"
+order: 1
 ---
 
 ### First Concepts
@@ -15,7 +16,8 @@ title: "Concepts"
 I found these quick furniture concepts really uninspiring and not something that I was interested in exploring more. I want to design something more fun and exciting than just furniture.
 I decided to take a different approach and look at an **Educational, Entertaining, and Preparatory** children's installation.
 
-[I went back a did some research around this.]
+[I went back a did some research around this.](https://harryiliffe.github.io/industrial-design-2018/research-educational/)
+
 
 This idea of making a entertaining installation for children drove the rest of my concepts.
 

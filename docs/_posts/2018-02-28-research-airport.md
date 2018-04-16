@@ -2,6 +2,7 @@
 layout: default
 categories: research
 title: "Location Research"
+order: 5
 ---
 
 ### My given location is an AIRPORT

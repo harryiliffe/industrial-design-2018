@@ -2,6 +2,7 @@
 layout: default
 categories: research
 title: "Airport Products"
+order: 4
 ---
 
 A few of the other products areas we identified (excluding furniture) were lighting, crowd control and

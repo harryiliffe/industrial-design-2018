@@ -2,6 +2,7 @@
 layout: default
 categories: research
 title: "Materials Research"
+order: 1
 ---
 
 ### Material One: 100% Wool Felt

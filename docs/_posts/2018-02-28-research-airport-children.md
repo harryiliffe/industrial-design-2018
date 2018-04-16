@@ -2,6 +2,7 @@
 layout: default
 categories: research
 title: "Families in the Airport"
+order: 2
 ---
 A family space is a space that provides a range of comfortable seating for adults and children, and has entertainment aimed at children.
 
