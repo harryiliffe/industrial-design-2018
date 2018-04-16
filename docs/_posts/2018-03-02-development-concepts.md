@@ -2,7 +2,6 @@
 layout: default
 categories: development
 title: "Concepts"
-order: 1
 ---
 
 ### First Concepts

@@ -2,7 +2,6 @@
 layout: default
 categories: research
 title: "Airport Furniture"
-order: 3
 ---
 
 ### Wellington Airport
