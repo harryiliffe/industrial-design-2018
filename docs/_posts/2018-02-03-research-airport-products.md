@@ -13,7 +13,8 @@ Like everything else in wellington airport, there was a wide range of lighting.
 ![lighting02]({{site.imageurl}}/LIGHTING-03.JPG)
 ![lighting03]({{site.imageurl}}/LIGHTING-05.JPG)
 ![lighting04]({{site.imageurl}}/LIGHTING-06.JPG)
-
+![advertising01]({{site.imageurl}}/ADVERTISING-01.JPG)
+![advertising01]({{site.imageurl}}ADVERTISING-03.JPG)
 #### Tape barriers / Stanchion
 Used excessively at the wellington airport were tape barriers. In every area of the airport these barriers were used as an quick, easy to set up solution for direction people.
 
