@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "Research"
-permalink: /research/
+title: "Development"
+permalink: /development/
 ---
