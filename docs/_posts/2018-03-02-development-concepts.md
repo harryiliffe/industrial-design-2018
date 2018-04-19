@@ -70,5 +70,10 @@ For this prototype I decided to make a small section.
 ![Prototype 3]({{site.imageurl}}/cad/cad-05.3.png)
 ![Prototype 3]({{site.imageurl}}/cad/cad-05.4.png)
 
-##### Photos
+#### Photos
 ![Concept 3 Photos]({{site.imageurl}}/prototypes/CONCEPT-07.jpg)
+
+I also made another section showing the potential to use gears.
+This was made way easier through using the [GearGenerator.com](http://geargenerator.com/#200,200,100,6,1,3,15633.300000006557,4,1,8,2,4,27,-90,0,0,16,4,4,27,-60,1,1,12,1,12,20,-60,2,0,60,5,12,20,0,0,0,2,-1033) Tool.
+
+![Concept 3 Photos - Gears]({{site.imageurl}}/prototypes/CONCEPT-7.1.jpg)
